@@ -13,8 +13,6 @@ abstract class A
 		{
 			//Master
 		}
-			;
-
 
 		
 
