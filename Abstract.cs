@@ -9,9 +9,12 @@ abstract class A
 		abstract public int Delete(int i);
 		abstract public int Multiply(int i);
 		abstract public int Pow(int i,int j);
-		abstract public int Sqrt(int i);
+		public int Sqrt(int i)
+		{
+			//Branch1
+		};
 
-		abstract public int TodayFunctionMain();
+
 		
 
 	}
